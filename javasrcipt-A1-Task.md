@@ -15,7 +15,7 @@ Show the 3 ways of declaring a variable : var (non used anymore), let (a variabl
 - Videos 11 and 12:
 Shows how to concatenate strings. We can use "+" between two strings to concatenate them. 
 - Videos 13 and 14:
-Template literals is another way to formate strings. It works by inserting ${string} in a sentence we want to print.
+Template literals is another way to formate strings. It works by inserting ${string}(it can be any types of variables) in a sentence we want to print.
 - Video 4
 - Video 4
 - Video 4
