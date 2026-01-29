@@ -49,8 +49,8 @@ JS Objects have properties and methods. To create Objects, we can use brackets o
 - Videos 45 and 46:
 Promises are better version of a callback. Because callback can be messy if you have successions of them. Promises works with a resolve-reject pair. We use then when the promise is working(using resolve) and catch when it is not(using reject)
 - Videos 47 and 48:
-
+By using await, the code pauses execution until a task is complete. It allows you to write asynchronous logic that seems synchronous. It is used with promises to manage them easily.
 - Videos 49 and 50:
-
+A package is a bundle of code and assets that you can use on your code to help you to code some things easily. You can use NPM to find packages. To use packages, you need to use package.json. 
 - Video 51:
-
+This is the last video, telling us that this serie is finished. It tell us that we have access to other tools to help us improving our JS.
