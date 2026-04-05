@@ -1,0 +1,13 @@
+# Machines Virtuelles (VirtualBox)
+*.vdi
+*.vbox
+*.vbox-prev
+*.sav
+Logs/
+Snapshots/
+
+# Node Modules (Dépendances inutiles à uploader)
+node_modules/
+
+# Fichiers d'environnement (Sécurité)
+.env
